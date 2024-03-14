@@ -2,7 +2,7 @@
 
 A simple calculator application built using Tkinter, the standard GUI (Graphical User Interface) toolkit for Python.
 
-<img src:"./simple_calculator.PNG" alt=Calculator GUI>
+<img src="./simple_calculator.PNG" alt=Calculator GUI>
 ## Table of Contents
 
 1. [Introduction](#introduction)
