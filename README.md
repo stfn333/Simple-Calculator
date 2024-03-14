@@ -27,7 +27,7 @@ This project is a basic calculator application implemented in Python using the T
 
 ## Usage
 
-1. Run the `calculator.py` file.
+1. Run the `simple_calculator.py` file.
 2. Use the number buttons (0-9) to input numbers.
 3. Use the operator buttons (+, -, *, /) to perform arithmetic operations.
 4. Press the equals (=) button to get the result.
